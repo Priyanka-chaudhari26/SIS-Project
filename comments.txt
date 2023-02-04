@@ -1,0 +1,10 @@
+in scripts all js files and css files will come in css folder
+admin k webpages admin dir k ander rakhenge
+student k webpages root pe rakhenge
+in phpmyadmin database, hash_key is used to identify record uniquely  
+PRIMARY KEY (`id`), UNIQUE `hash_key` (`hash_key`))
+agent se app pta kr sakte ho os ka version, firefox version etc
+
+there are reusable components in php but in react we can pass props along with importing components and also routing is handled by react router dom
+
+mysql workbench, server, router uninstall version 8
